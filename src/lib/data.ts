@@ -99,8 +99,7 @@ export const gallery = [
 	{ src: '/images/waterfall.jpg', alt: 'Водопад Махунцети около Батуми' },
 	{ src: '/images/bridge-detail.jpg', alt: 'Каменная кладка арочного моста' },
 	{ src: '/images/road.jpg', alt: 'Дорога из Батуми в горную Аджарию' },
-	{ src: '/images/tourists.jpg', alt: 'Экскурсия: фото у моста и водопада' },
-	{ src: '/images/gallery-5.jpg', alt: 'Пейзажи горной Аджарии' }
+	{ src: '/images/tourists.jpg', alt: 'Экскурсия: фото у моста и водопада' }
 ];
 
 export const faq = [

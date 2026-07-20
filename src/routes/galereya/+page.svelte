@@ -13,9 +13,12 @@
 />
 
 <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
-	<span class="badge">Галерея</span>
+	<span class="badge">Галерея · реальные фото</span>
 	<h1 class="section-title mt-3">Мост и водопад — фото</h1>
-	<p class="section-lead">Небольшая галерея маршрута. Нажмите на фото, чтобы увеличить.</p>
+	<p class="section-lead">
+		Настоящие фото моста царицы Тамары и водопада Махунцети (Wikimedia Commons). Нажмите, чтобы
+		увеличить.
+	</p>
 
 	<div class="mt-10 grid grid-cols-2 gap-3 md:grid-cols-3">
 		{#each gallery as g (g.src)}

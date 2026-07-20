@@ -1,0 +1,12 @@
+# Photo attribution (Wikimedia Commons)
+- `bridge-detail.jpg` — Makhuntseti Bridge, Adjara, Georgia (1).jpg
+- `gallery-1.jpg` — Ancient stone bridge over Acharistsqali river in Makhuntseti - panoramio.jpg
+- `gallery-2.jpg` — Makhuntseti Bridge, Adjara, Georgia (2).jpg
+- `gallery-3.jpg` — Makhuntseti Bridge, Adjara, Georgia (3).jpg
+- `gallery-4.jpg` — Makhuntseti Bridge 2.jpg
+- `gallery-5.jpg` — Makhuntseti falls, Adjara, Georgia.jpg
+- `gallery-6.jpg` — Makhuntseti waterfall.jpg
+- `hero.jpg` — Makhuntseti Bridge panorama.jpg
+- `road.jpg` — Makhuntseti Bridge, Georgia.jpg
+- `tourists.jpg` — Makhuntseti Bridge tourists.jpg
+- `waterfall.jpg` — Makhuntseti Waterfall - მახუნცეთის ჩანჩქერი - panoramio.jpg

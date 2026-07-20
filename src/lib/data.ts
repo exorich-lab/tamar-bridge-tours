@@ -94,12 +94,19 @@ export const waterfalls = [
 	}
 ];
 
+/** Реальные фото Wikimedia Commons (Makhuntseti Bridge & Waterfall, Adjara) */
 export const gallery = [
-	{ src: '/images/hero.jpg', alt: 'Арочный мост в горах Аджарии — мост царицы Тамары' },
-	{ src: '/images/waterfall.jpg', alt: 'Водопад Махунцети около Батуми' },
-	{ src: '/images/bridge-detail.jpg', alt: 'Каменная кладка арочного моста' },
-	{ src: '/images/road.jpg', alt: 'Дорога из Батуми в горную Аджарию' },
-	{ src: '/images/tourists.jpg', alt: 'Экскурсия: фото у моста и водопада' }
+	{ src: '/images/hero.jpg', alt: 'Мост царицы Тамары (Махунцети) — панорама' },
+	{ src: '/images/waterfall.jpg', alt: 'Водопад Махунцети, Аджария' },
+	{ src: '/images/bridge-detail.jpg', alt: 'Арочный мост Махунцети крупным планом' },
+	{ src: '/images/road.jpg', alt: 'Мост Махунцети, вид с дороги' },
+	{ src: '/images/tourists.jpg', alt: 'Туристы у моста царицы Тамары' },
+	{ src: '/images/gallery-1.jpg', alt: 'Каменный мост над рекой Аджарисцкали' },
+	{ src: '/images/gallery-2.jpg', alt: 'Мост Махунцети, Аджария' },
+	{ src: '/images/gallery-3.jpg', alt: 'Мост царицы Тамары, вид сбоку' },
+	{ src: '/images/gallery-4.jpg', alt: 'Мост Махунцети — общий план' },
+	{ src: '/images/gallery-5.jpg', alt: 'Водопад Махунцети в скалах' },
+	{ src: '/images/gallery-6.jpg', alt: 'Водопад Махунцети — поток воды' }
 ];
 
 export const faq = [

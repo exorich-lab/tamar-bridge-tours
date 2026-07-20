@@ -1,0 +1,15 @@
+{
+	"name": "Махунцети Тур — мост Тамары",
+	"short_name": "Махунцети",
+	"description": "Мост царицы Тамары и водопад Махунцети из Батуми. Экскурсии и трансфер.",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#020617",
+	"theme_color": "#0f172a",
+	"lang": "ru",
+	"icons": [
+		{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+		{ "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+		{ "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+	]
+}

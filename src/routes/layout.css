@@ -1,0 +1,87 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+html {
+	scroll-behavior: smooth;
+}
+body {
+	font-family: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, sans-serif;
+	background: #020617;
+	color: #e2e8f0;
+	min-height: 100vh;
+	-webkit-font-smoothing: antialiased;
+}
+::selection {
+	background: color-mix(in oklab, #38bdf8 40%, transparent);
+	color: white;
+}
+.glass {
+	background: color-mix(in oklab, white 6%, transparent);
+	border: 1px solid color-mix(in oklab, white 12%, transparent);
+	backdrop-filter: blur(12px);
+}
+.btn-primary {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	border-radius: 9999px;
+	background: #38bdf8;
+	padding: 0.75rem 1.5rem;
+	font-weight: 600;
+	color: #020617;
+	box-shadow: 0 10px 30px color-mix(in oklab, #38bdf8 28%, transparent);
+	transition:
+		background 0.2s,
+		transform 0.15s;
+}
+.btn-primary:hover {
+	background: #7dd3fc;
+	transform: translateY(-1px);
+}
+.btn-ghost {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	border-radius: 9999px;
+	border: 1px solid color-mix(in oklab, white 20%, transparent);
+	padding: 0.75rem 1.5rem;
+	font-weight: 600;
+	color: white;
+	transition: background 0.2s;
+}
+.btn-ghost:hover {
+	background: color-mix(in oklab, white 8%, transparent);
+}
+.section-title {
+	font-size: clamp(1.75rem, 4vw, 2.5rem);
+	font-weight: 700;
+	letter-spacing: -0.02em;
+	color: white;
+	line-height: 1.15;
+}
+.section-lead {
+	margin-top: 0.75rem;
+	max-width: 42rem;
+	color: #94a3b8;
+	line-height: 1.6;
+}
+.card {
+	overflow: hidden;
+	border-radius: 1.25rem;
+	border: 1px solid color-mix(in oklab, white 10%, transparent);
+	background: color-mix(in oklab, #0f172a 92%, #064e3b);
+	box-shadow: 0 20px 50px rgb(0 0 0 / 0.3);
+}
+.badge {
+	display: inline-flex;
+	align-items: center;
+	border-radius: 9999px;
+	background: color-mix(in oklab, #38bdf8 15%, transparent);
+	padding: 0.25rem 0.75rem;
+	font-size: 0.75rem;
+	font-weight: 600;
+	color: #bae6fd;
+	border: 1px solid color-mix(in oklab, #38bdf8 25%, transparent);
+}
